@@ -1,0 +1,51 @@
+
+
+
+/*************** main **********************/
+
+
+
+main .row {
+    display: flex;
+    justify-content: center;
+}
+
+.col-lg-10 {
+    width: 100%;
+}
+
+.section-title{
+    text-align:left;
+}
+.section-title p{
+    text-align:left;
+    padding-bottom: 30px;
+}
+
+h2{
+    text-align: center;
+}
+.section-title1{
+    padding: 50px;
+}
+
+main .row h4{
+    padding: 20px;
+}
+
+main span{
+    font-weight: 600;
+}
+
+
+
+/*************** footer **********************/
+
+
+@media screen and (min-width: 992px){
+    footer .row {
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        width: 90%;
+    }
+    }

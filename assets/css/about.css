@@ -1,0 +1,11 @@
+
+/*************** footer **********************/
+
+
+@media screen and (min-width: 992px){
+    footer .row {
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        width: 90%;
+    }
+    }
