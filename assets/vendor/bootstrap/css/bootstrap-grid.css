@@ -781,12 +781,12 @@
 
   .col-lg-1 {
     flex: 0 0 auto;
-    width: 8.33333333%;
+    width: 33.33333333%;
   }
 
   .col-lg-2 {
     flex: 0 0 auto;
-    width: 25.66666667%;
+    width: 23.66666667%;
   }
 
   .col-lg-3 {
@@ -796,7 +796,7 @@
 
   .col-lg-4 {
     flex: 0 0 auto;
-    width: 33.33333333%;
+    width: 31.33333333%;
   }
 
   .col-lg-5 {
