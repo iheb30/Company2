@@ -540,5 +540,35 @@ footer a {
       max-width: 720px;
   }
   }
+<<<<<<< HEAD
+@media screen and (min-width: 1041px){
+    #footer .container {
+      width: 95%;
+  }
+  }
+
+  .town{
+    position: relative;
+    left: 50px;
+  }
+
+/* footer prenant en compte le logo en haut */
+
+#footer .footer-top .footer-contact {
+  margin-bottom: 0;
+}
+
+.footer-logo {
+  float:none;
+  padding: 0;
+  max-height: 170px;
+}
+
+#footer .footer-top .footer-contact p {
+  position: relative;
+  bottom: 40px;
+}
+=======
+>>>>>>> parent of a05d1b2 (à-propos/galerie_amelioration)
 
 
